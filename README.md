@@ -1,0 +1,3 @@
+# githubGraffiti
+
+Activity log.
